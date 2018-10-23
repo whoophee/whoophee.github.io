@@ -91,12 +91,12 @@ def with_greetings(do_something):
 {% endhighlight %}
 {% highlight python %}
 >>> def say_message():
-...		print("This is a message.")
+...		print("A message.")
 ...
 >>> say_message = with_greetings(say_message)
 >>> say_message()
 Hello
-This is a message.
+A message.
 Goodbye
 {% endhighlight python %}
 We've wrapped *say_message()* to display the message along with 'Hello' and 'Goodbye' messages.
