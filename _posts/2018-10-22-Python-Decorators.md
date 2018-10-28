@@ -70,7 +70,7 @@ def get_greeter_function(name, greeting_type = 'hi'):
 'Hi Bob This is the first greeter function.'
 >>> another_greet = get_greeter_function("Charles", "Howdy")
 >>> another_greet()
-'Howdy Bob This is the second greeter function.'
+'Howdy Charles This is the second greeter function.'
 {% endhighlight %}
 Although it seems fairly obvious, it is prudent we note that the local functions cannot be called from outside the scope of the function.
 {% highlight python %}
