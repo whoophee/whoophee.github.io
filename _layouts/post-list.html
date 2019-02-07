@@ -37,6 +37,11 @@ layout: compress
                                 {% endfor %}
                               </div>
                               <div class="tag">
+                                {% if post.github_link %}
+                                <a href="{{ post.github_link }}" class="small" target="_blank" rel="noauthor noreferrer">
+                                    View on <i class="fa fa-github"></i>
+                                </a>
+                                {% endif %}
                                 <a href="{{ site.url }}{{ post.url }}" title="Read more." class="small">
                                   Read more...
                                 </a>
