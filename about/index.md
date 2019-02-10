@@ -11,7 +11,7 @@ comments: false
 ### The absolute essentials
 I'm Raghav, or more formally, Raghav Sairam Niketh. I also go by the alias "whoophee" on most websites.
 
-I'm pursuing my Master of Science in Computer Science degree at [Northeastern University](https://www.ccis.northeastern.edu/). I earnt my Bachelor of Technology degree in Computer Science and Engineering at [National Institute of Technology - Tiruchirappalli](https://www.nitt.edu/) in 2016.
+I'm an M.S in Computer Science graduate from [Northeastern University](https://www.ccis.northeastern.edu/). I earnt my Bachelor of Technology degree in Computer Science and Engineering at [National Institute of Technology - Tiruchirappalli](https://www.nitt.edu/) in 2016.
 
 ### Stuff I love (TL;DR)
 #### Programming
