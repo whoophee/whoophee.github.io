@@ -2,7 +2,7 @@
 layout: post
 title: "Daily Coding Problem"
 excerpt: "A problem a day keeps sanity at bay."
-tags: [programming, python, C++]
+tags: [coding, python, C++]
 ignore_date: true
 github_link: "https://github.com/whoophee/DCP"
 comments: true

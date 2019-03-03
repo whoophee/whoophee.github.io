@@ -14,13 +14,13 @@ I'm Raghav, or more formally, Raghav Sairam Niketh. I also go by the alias "whoo
 I'm an M.S in Computer Science graduate from [Northeastern University](https://www.ccis.northeastern.edu/). I earnt my Bachelor of Technology degree in Computer Science and Engineering at [National Institute of Technology - Tiruchirappalli](https://www.nitt.edu/) in 2016.
 
 ### Stuff I love (TL;DR)
-#### Programming
-I've been programming since I was 13 years old and have maintained a love-hate relationship with it ever since. Competitive programming shaped my insatiable need to write clean and efficient code. I've also come to believe that my experience with this art greatly moulded my perspective of life.
+#### Coding
+I've been coding since I was 13 years old and have maintained a love-hate relationship with it ever since. Competitive coding shaped my insatiable need to write clean and efficient code. I've also come to believe that my experience with this art greatly moulded my perspective of life.
 
 #### [Dota 2](http://www.dota2.com/play/)
-I've been <del>programming</del> playing Dota 2 since I was <del>13</del> 19 years old and have maintained a love-hate relationship with it ever since. <del> Competitive programming</del> Gaming shaped my insatiable need to <del>write clean and efficient code</del> perform consistently and communicate effectively. I've also come to believe that my experience with this art greatly moulded my perspective of life.
+I've been <del>coding</del> playing Dota 2 since I was <del>13</del> 19 years old and have maintained a love-hate relationship with it ever since. <del> Competitive coding</del> Gaming shaped my insatiable need to <del>write clean and efficient code</del> perform consistently and communicate effectively. I've also come to believe that my experience with this art greatly moulded my perspective of life.
 
-On a more serious note, much like programming, Dota 2 involves a challenging learning curve and a need for constant improvement. Also, the instant gratification always helped.
+On a more serious note, much like coding, Dota 2 involves a challenging learning curve and a need for constant improvement. Also, the instant gratification always helped.
 
 #### Music
 *"Music, at its essence, is what gives us memories. And the longer a song has existed in our lives, the more memories we have of it." - Stevie Wonder*
