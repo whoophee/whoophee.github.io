@@ -15,11 +15,7 @@ body {
 	@extend %extend1;
 	font-family: $font1;
 	@include font-rem($doc-font-size);
-	color: $color_tuatara;
-	background-position: center center;
-	background-attachment: fixed;
-	background-image: url($baseurl + "/" + $bgurl);
-	background-repeat: no-repeat;
+	background-color: $background_color;
 	background-size: cover;
 	@media #{$small} {
 	  background-image: none !important;
